@@ -43,3 +43,5 @@ python3 chatbot.py
 3. AI generates a response and reads it aloud.
 4. Type `exit` to quit.
 
+###  DeepSeek API Status
+I attempted to integrate DeepSeek for AI responses, but due to temporary payment service issues, it could not be used. The chatbot currently works with llama2 instead. Once DeepSeek's API is available, you can switch by updating the model in generate_response().
