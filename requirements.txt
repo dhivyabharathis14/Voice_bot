@@ -1,0 +1,9 @@
+numpy
+openai-whisper
+ollama
+sounddevice
+soundfile
+asyncio
+langchain
+kokoro
+ipython
